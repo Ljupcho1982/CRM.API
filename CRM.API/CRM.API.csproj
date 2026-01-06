@@ -11,11 +11,4 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="10.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Public_Area\Controllers\" />
-    <Folder Include="Areas\Public_Area\Data\" />
-    <Folder Include="Areas\Public_Area\Models\" />
-    <Folder Include="Areas\Public_Area\Views\" />
-  </ItemGroup>
-
 </Project>
